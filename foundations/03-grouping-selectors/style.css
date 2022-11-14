@@ -1,0 +1,17 @@
+/* style.css */
+
+.class1,
+.class2 {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', Times, serif;
+
+}
+
+.class2 {
+    background-color: #f6ec31;
+}
+
+.class1 {
+    background-color: hsl(0, 100%, 0%);
+    color: hsl(0, 100%, 100%);
+}
